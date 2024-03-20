@@ -1,0 +1,441 @@
+add_id,delivery_address,address_details,delivery_city,delivery_province,delivery_postcode,delivery_latitude,delivery_longitude,customers_id
+1,Calle Alhamar 45,2ºA,Granada,Granada,18010,37.177500,-3.597500,1
+2,Avenida de Andalucía 123,4ºB,Albolote,Granada,18220,37.240200,-3.633800,2
+3,Calle Real 67,,Santa Fe,Granada,18320,37.189000,-3.703500,3
+4,Plaza Nueva 8,,Guadix,Granada,18500,37.299800,-3.137500,4
+5,Calle Mayor 33,1ºC,Loja,Granada,18300,37.165400,-4.152300,5
+6,Paseo de la Bomba 56,5ºD,Baza,Granada,18800,37.494200,-2.772400,6
+7,Calle Recogidas 89,3ºA,Armilla,Granada,18100,37.146100,-3.612800,7
+8,Carrera del Genil 17,,Peligros,Granada,18210,37.231800,-3.616300,8
+9,Avenida de América 42,8ºE,La Zubia,Granada,18140,37.114300,-3.591900,9
+10,Calle San Matías 10,,Motril,Granada,18600,36.748100,-3.516500,10
+11,Calle Alhambra 123,3ºA,Granada,Granada,18001,37.175400,-3.597100,11
+12,Avenida Sierra Nevada 45,2ºB,La Zubia,Granada,18140,37.122300,-3.589800,12
+13,Calle del Sol 67,1ºC,Santa Fe,Granada,18320,37.189700,-3.702500,13
+14,Paseo de la Constitución 89,4ºD,Armilla,Granada,18100,37.128500,-3.607800,14
+15,Plaza Nueva 56,2ºA,Motril,Granada,18600,36.747800,-3.521600,15
+16,Calle Real 34,3ºB,Almuñécar,Granada,18690,36.733700,-3.685700,16
+17,Avenida de Andalucía 78,1ºD,Baza,Granada,18800,37.491200,-2.772300,17
+18,Calle Mayor 101,2ºC,Loja,Granada,18300,37.162900,-4.154600,18
+19,Carrera de la Virgen 45,3ºD,Guadix,Granada,18500,37.299300,-3.138300,19
+20,Calle Real 22,4ºA,Órgiva,Granada,18400,36.901200,-3.416700,20
+21,Calle San Juan 56,2ºB,Granada,Granada,18002,37.179300,-3.598200,21
+22,Avenida de la Constitución 123,3ºA,Armilla,Granada,18101,37.130200,-3.605400,22
+23,Calle Albaicín 34,1ºC,Albolote,Granada,18220,37.236500,-3.628700,23
+24,Plaza del Carmen 78,4ºD,Cúllar Vega,Granada,18196,37.148700,-3.625900,24
+25,Carrera del Darro 45,2ºA,Dúrcal,Granada,18650,37.045600,-3.604100,25
+26,Avenida de las Palmeras 67,3ºB,Peligros,Granada,18210,37.233400,-3.642900,26
+27,Callejón de la Aurora 22,1ºD,Láchar,Granada,18327,37.207900,-3.809600,27
+28,Calle Real 101,2ºC,Salobreña,Granada,18680,36.743500,-3.587800,28
+29,Paseo de la Estación 45,3ºD,Santa Fe,Granada,18320,37.188600,-3.703700,29
+30,Callejuela de los Geranios 67,4ºA,Loja,Granada,18300,37.164800,-4.152200,30
+31,Calle Real 22,2ºB,Alfacar,Granada,18170,37.262300,-3.536400,31
+32,Avenida de la Alpujarra 45,3ºA,Órgiva,Granada,18400,36.920100,-3.420900,32
+33,Carrera del Genil 34,1ºC,Peligros,Granada,18210,37.233700,-3.644500,33
+34,Plaza de la Merced 78,4ºD,Güéjar Sierra,Granada,18160,37.154800,-3.490200,34
+35,Callejón de los Gitanos 45,2ºA,Lanjarón,Granada,18420,36.916400,-3.487900,35
+36,Avenida de la Estación 67,3ºB,Churriana de la Vega,Granada,18194,37.146300,-3.635800,36
+37,Calle del Agua 22,1ºD,La Malahá,Granada,18312,37.138700,-3.807200,37
+38,Paseo de la Vega 101,2ºC,Pulianas,Granada,18197,37.217500,-3.645300,38
+39,Callejón de los Olivos 45,3ºD,Santa Fe,Granada,18320,37.188200,-3.697400,39
+40,Carrera de la Sierra 67,4ºA,Zújar,Granada,18811,37.536800,-2.784600,40
+41,Calle Reyes Católicos 56,2ºB,Granada,Granada,18003,37.177400,-3.600100,41
+42,Avenida Constitución 123,3ºA,Granada,Granada,18004,37.185200,-3.609700,42
+43,Plaza Bib-Rambla 34,1ºC,Granada,Granada,18005,37.176800,-3.598200,43
+44,Calle Elvira 78,4ºD,Granada,Granada,18006,37.169700,-3.595900,44
+45,Avenida Fernando de los Ríos 45,2ºA,Granada,Granada,18007,37.184500,-3.584300,45
+46,Calle Recogidas 67,3ºB,Granada,Granada,18008,37.175800,-3.598700,46
+47,Carrera del Darro 22,1ºD,Granada,Granada,18009,37.175100,-3.590900,47
+48,Paseo de la Bomba 101,2ºC,Granada,Granada,18010,37.186300,-3.598800,48
+49,Calle San Antón 45,3ºD,Granada,Granada,18011,37.177900,-3.593100,49
+50,Camino de Ronda 67,4ºA,Granada,Granada,18012,37.181400,-3.601600,50
+51,Calle Alhamar 56,2ºB,Granada,Granada,18013,37.176100,-3.602800,51
+52,Avenida Doctor Olóriz 123,3ºA,Granada,Granada,18014,37.182900,-3.598600,52
+53,Plaza de Toros 34,1ºC,Granada,Granada,18015,37.178300,-3.593700,53
+54,Calle Pedro Antonio de Alarcón 78,4ºD,Granada,Granada,18016,37.167700,-3.601100,54
+55,Avenida Fuente Nueva 45,2ºA,Granada,Granada,18017,37.179600,-3.610200,55
+56,Calle Neptuno 67,3ºB,Granada,Granada,18018,37.188700,-3.594500,56
+57,Carrera de la Virgen 22,1ºD,Granada,Granada,18019,37.177500,-3.599800,57
+58,Paseo del Salón 101,2ºC,Granada,Granada,18020,37.178900,-3.592200,58
+59,Calle San Matías 45,3ºD,Granada,Granada,18021,37.178200,-3.598400,59
+60,Camino de Purchil 67,4ºA,Granada,Granada,18022,37.172800,-3.607500,60
+61,Calle Alcaicería 56,2ºB,Granada,Granada,18023,37.175900,-3.598100,61
+62,Avenida de Cervantes 123,3ºA,Granada,Granada,18024,37.179400,-3.592300,62
+63,Plaza del Campillo 34,1ºC,Granada,Granada,18025,37.179800,-3.599900,63
+64,Calle San Jerónimo 78,4ºD,Granada,Granada,18026,37.175200,-3.601400,64
+65,Avenida de América 45,2ºA,Granada,Granada,18027,37.183700,-3.588600,65
+66,Calle Alfareros 67,3ºB,Granada,Granada,18028,37.176600,-3.596700,66
+67,Carrera de la Fuente Nueva 22,1ºD,Granada,Granada,18029,37.180200,-3.595100,67
+68,Paseo del Violón 101,2ºC,Granada,Granada,18030,37.180600,-3.594300,68
+69,Calle Reyes Magos 45,3ºD,Granada,Granada,18031,37.178100,-3.597200,69
+70,Camino de San Nicolás 67,4ºA,Granada,Granada,18032,37.173500,-3.606800,70
+71,Calle Alhamar 87,1ºA,Granada,Granada,18033,37.176100,-3.602800,71
+72,Avenida de la Constitución 234,2ºB,Granada,Granada,18034,37.182900,-3.598600,72
+73,Plaza Nueva 45,3ºC,Granada,Granada,18035,37.178300,-3.593700,73
+74,Calle Ganivet 67,4ºD,Granada,Granada,18036,37.167700,-3.601100,74
+75,Avenida Fuente Nueva 156,2ºA,Granada,Granada,18037,37.179600,-3.610200,75
+76,Calle Recogidas 78,2ºB,Granada,Granada,18038,37.188700,-3.594500,76
+77,Carrera de la Virgen 34,1ºC,Granada,Granada,18039,37.177500,-3.599800,77
+78,Paseo del Salón 145,2ºC,Granada,Granada,18040,37.178900,-3.592200,78
+79,Calle San Matías 56,3ºD,Granada,Granada,18041,37.178200,-3.598400,79
+80,Camino de Purchil 98,4ºA,Granada,Granada,18042,37.172800,-3.607500,80
+81,Calle Ganivet 23,1ºB,Granada,Granada,18043,37.173600,-3.603400,81
+82,Avenida de la Constitución 198,2ºA,Granada,Granada,18044,37.182100,-3.598300,82
+83,Plaza del Carmen 56,3ºC,Granada,Granada,18045,37.176900,-3.597900,83
+84,Calle Alhambra 78,4ºD,Granada,Granada,18046,37.175300,-3.595700,84
+85,Avenida de América 34,2ºB,Granada,Granada,18047,37.183600,-3.587800,85
+86,Calle Reyes Católicos 101,3ºA,Granada,Granada,18048,37.177500,-3.600800,86
+87,Carrera del Genil 45,1ºC,Granada,Granada,18049,37.184200,-3.594300,87
+88,Paseo del Violón 167,2ºC,Granada,Granada,18050,37.180700,-3.594200,88
+89,Calle San Jerónimo 34,3ºD,Granada,Granada,18051,37.175500,-3.601600,89
+90,Camino de Ronda 89,4ºA,Granada,Granada,18052,37.182300,-3.600100,90
+91,Calle Reyes Católicos 156,2ºB,Granada,Granada,18053,37.177400,-3.599900,91
+92,Avenida de la Constitución 267,3ºC,Granada,Granada,18054,37.183000,-3.598100,92
+93,Plaza Bib-Rambla 89,1ºA,Granada,Granada,18055,37.175200,-3.597500,93
+94,Calle Elvira 45,4ºD,Granada,Granada,18056,37.170000,-3.600500,94
+95,Avenida Fuente Nueva 123,2ºA,Granada,Granada,18057,37.179900,-3.610100,95
+96,Calle Recogidas 78,3ºB,Granada,Granada,18058,37.188800,-3.594600,96
+97,Carrera del Darro 34,1ºC,Granada,Granada,18059,37.175700,-3.590700,97
+98,Paseo del Salón 189,2ºC,Granada,Granada,18060,37.179100,-3.592100,98
+99,Calle San Juan de Dios 56,3ºD,Granada,Granada,18061,37.173800,-3.603000,99
+100,Camino de Ronda 112,4ºA,Granada,Granada,18062,37.182200,-3.599700,100
+101,Calle Alhamar 33,2ºC,Granada,Granada,18063,37.177000,-3.601200,1
+102,Avenida de Andalucía 45,4ºD,Albolote,Granada,18221,37.240500,-3.634100,2
+103,Calle Real 22,,Santa Fe,Granada,18321,37.189100,-3.703600,3
+104,Plaza Nueva 78,,Guadix,Granada,18501,37.300000,-3.137600,4
+105,Calle Mayor 55,2ºD,Loja,Granada,18301,37.165500,-4.152400,5
+106,Paseo de la Bomba 12,5ºE,Baza,Granada,18801,37.494300,-2.772500,6
+107,Calle Recogidas 67,3ºC,Armilla,Granada,18101,37.146200,-3.612900,7
+108,Carrera del Genil 22,,Peligros,Granada,18211,37.231900,-3.616400,8
+109,Avenida de América 89,8ºF,La Zubia,Granada,18141,37.114400,-3.592000,9
+110,Calle San Matías 34,,Motril,Granada,18601,36.748200,-3.516600,10
+111,Calle Alhambra 67,3ºB,Granada,Granada,18002,37.175500,-3.597200,11
+112,Avenida Sierra Nevada 23,2ºC,La Zubia,Granada,18141,37.122400,-3.589900,12
+113,Calle del Sol 78,1ºD,Santa Fe,Granada,18321,37.189800,-3.702600,13
+114,Paseo de la Constitución 22,4ºE,Armilla,Granada,18101,37.128600,-3.607900,14
+115,Plaza Nueva 45,2ºB,Motril,Granada,18601,36.747900,-3.521700,15
+116,Calle Real 67,3ºC,Almuñécar,Granada,18691,36.733800,-3.685800,16
+117,Avenida de Andalucía 45,1ºD,Baza,Granada,18801,37.491300,-2.772400,17
+118,Calle Mayor 56,2ºD,Loja,Granada,18301,37.163000,-4.154700,18
+119,Carrera de la Virgen 12,3ºE,Guadix,Granada,18501,37.299400,-3.138400,19
+120,Calle Real 34,4ºB,Órgiva,Granada,18401,36.901300,-3.416800,20
+121,Calle San Juan 12,2ºC,Granada,Granada,18003,37.179400,-3.598300,21
+122,Avenida de la Constitución 56,3ºB,Armilla,Granada,18102,37.130300,-3.605500,22
+123,Calle Albaicín 78,1ºD,Albolote,Granada,18221,37.236600,-3.628800,23
+124,Plaza del Carmen 34,4ºE,Cúllar Vega,Granada,18197,37.148800,-3.626000,24
+125,Carrera del Darro 89,2ºB,Dúrcal,Granada,18651,37.045700,-3.604200,25
+126,Avenida de las Palmeras 12,3ºC,Peligros,Granada,18211,37.233500,-3.643000,26
+127,Callejón de la Aurora 45,1ºE,Láchar,Granada,18328,37.208000,-3.809700,27
+128,Calle Real 156,2ºD,Salobreña,Granada,18681,36.743600,-3.587900,28
+129,Paseo de la Estación 78,3ºE,Santa Fe,Granada,18321,37.188700,-3.703800,29
+130,Callejuela de los Geranios 12,4ºB,Loja,Granada,18301,37.164900,-4.152300,30
+131,Calle Real 45,2ºC,Alfacar,Granada,18171,37.262400,-3.536500,31
+132,Avenida de la Alpujarra 89,3ºB,Órgiva,Granada,18401,36.920200,-3.421000,32
+133,Carrera del Genil 67,1ºD,Peligros,Granada,18211,37.233800,-3.644600,33
+134,Plaza de la Merced 156,4ºE,Güéjar Sierra,Granada,18161,37.154900,-3.490300,34
+135,Callejón de los Gitanos 12,2ºB,Lanjarón,Granada,18421,36.916500,-3.488000,35
+136,Avenida de la Estación 45,3ºC,Churriana de la Vega,Granada,18195,37.146400,-3.635900,36
+137,Calle del Agua 89,1ºD,La Malahá,Granada,18313,37.138800,-3.807300,37
+138,Paseo de la Vega 156,2ºD,Pulianas,Granada,18198,37.217600,-3.645400,38
+139,Callejón de los Olivos 34,3ºE,Santa Fe,Granada,18321,37.188300,-3.697500,39
+140,Carrera de la Sierra 12,4ºB,Zújar,Granada,18812,37.536900,-2.784800,40
+141,Calle Reyes Católicos 45,2ºC,Granada,Granada,18004,37.177500,-3.600200,41
+142,Avenida Constitución 89,3ºB,Granada,Granada,18005,37.185300,-3.609800,42
+143,Plaza Bib-Rambla 56,1ºD,Granada,Granada,18006,37.176900,-3.598300,43
+144,Calle Elvira 12,4ºE,Granada,Granada,18007,37.169800,-3.596000,44
+145,Avenida Fernando de los Ríos 89,2ºB,Granada,Granada,18008,37.184600,-3.584400,45
+146,Calle Recogidas 34,3ºC,Granada,Granada,18009,37.175200,-3.598800,46
+147,Carrera del Darro 101,2ºD,Granada,Granada,18010,37.186400,-3.598900,47
+148,Paseo de la Bomba 56,3ºE,Granada,Granada,18011,37.175200,-3.591000,48
+149,Calle San Antón 78,4ºE,Granada,Granada,18012,37.178000,-3.593200,49
+150,Camino de Ronda 156,2ºB,Granada,Granada,18013,37.176200,-3.602900,50
+151,Calle Larios 23,2ºA,Málaga,Málaga,29015,36.721200,-4.420000,101
+152,Avenida de Andalucía 67,4ºB,Torremolinos,Málaga,29620,36.623800,-4.499700,102
+153,Calle Marqués de Larios 45,,Fuengirola,Málaga,29640,36.544900,-4.624500,103
+154,Plaza de la Merced 8,,Ronda,Málaga,29400,36.739200,-5.164000,104
+155,Calle Real 33,1ºC,Estepona,Málaga,29680,36.425600,-5.149500,105
+156,Paseo Marítimo 56,5ºD,Marbella,Málaga,29600,36.510000,-4.882400,106
+157,Calle Alameda Principal 89,3ºA,Benalmádena,Málaga,29631,36.595900,-4.558200,107
+158,Avenida de Velázquez 17,,Vélez-Málaga,Málaga,29700,36.770900,-4.101600,108
+159,Calle La Malagueta 42,8ºE,Nerja,Málaga,29780,36.743600,-3.883400,109
+160,Calle San Miguel 10,,Antequera,Málaga,29200,37.021900,-4.561800,110
+161,Calle Larios 123,3ºA,Málaga,Málaga,29001,36.720000,-4.419800,111
+162,Avenida de la Aurora 45,2ºB,Torremolinos,Málaga,29621,36.624500,-4.498800,112
+163,Calle Marqués de Larios 67,1ºC,Fuengirola,Málaga,29641,36.545500,-4.623700,113
+164,Plaza de España 8,,Ronda,Málaga,29401,36.738500,-5.163800,114
+165,Calle Real 56,2ºA,Estepona,Málaga,29681,36.426200,-5.149300,115
+166,Paseo Marítimo 101,3ºB,Marbella,Málaga,29601,36.509400,-4.882200,116
+167,Calle Alameda Principal 34,1ºD,Benalmádena,Málaga,29632,36.595200,-4.558800,117
+168,Avenida de Velázquez 56,2ºC,Vélez-Málaga,Málaga,29701,36.770000,-4.102300,118
+169,Calle La Malagueta 89,4ºD,Nerja,Málaga,29781,36.743900,-3.883200,119
+170,Calle San Miguel 22,1ºB,Antequera,Málaga,29201,37.021500,-4.561100,120
+171,Calle Granada 56,2ºB,Málaga,Málaga,29002,36.724100,-4.414900,121
+172,Avenida de la Carihuela 123,3ºA,Torremolinos,Málaga,29622,36.622000,-4.501200,122
+173,Calle Marqués de Larios 78,4ºD,Fuengirola,Málaga,29642,36.546300,-4.624200,123
+174,Plaza de la Constitución 45,2ºA,Ronda,Málaga,29402,36.738100,-5.163500,124
+175,Calle Real 78,3ºB,Estepona,Málaga,29682,36.427500,-5.148900,125
+176,Paseo Marítimo 34,1ºC,Marbella,Málaga,29602,36.508800,-4.882000,126
+177,Calle Alameda Principal 67,4ºD,Benalmádena,Málaga,29633,36.594600,-4.559300,127
+178,Avenida de Velázquez 22,1ºD,Vélez-Málaga,Málaga,29702,36.769400,-4.102900,128
+179,Calle La Malagueta 56,2ºB,Nerja,Málaga,29782,36.743300,-3.882800,129
+180,Calle San Miguel 45,3ºC,Antequera,Málaga,29202,37.021100,-4.560500,130
+181,Calle Granada 87,1ºA,Málaga,Málaga,29003,36.726200,-4.413500,131
+182,Avenida de la Carihuela 45,2ºB,Torremolinos,Málaga,29623,36.621200,-4.502600,132
+183,Calle Marqués de Larios 101,3ºA,Fuengirola,Málaga,29643,36.547000,-4.623000,133
+184,Plaza de la Constitución 56,4ºD,Ronda,Málaga,29403,36.737700,-5.163300,134
+185,Calle Real 101,2ºC,Estepona,Málaga,29683,36.427900,-5.148500,135
+186,Paseo Marítimo 67,3ºD,Marbella,Málaga,29603,36.508100,-4.881800,136
+187,Calle Alameda Principal 22,1ºA,Benalmádena,Málaga,29634,36.594000,-4.559800,137
+188,Avenida de Velázquez 78,4ºB,Vélez-Málaga,Málaga,29703,36.769000,-4.103500,138
+189,Calle La Malagueta 101,2ºC,Nerja,Málaga,29783,36.742800,-3.882400,139
+190,Calle San Miguel 67,3ºD,Antequera,Málaga,29203,37.020600,-4.560000,140
+191,Calle Granada 34,2ºA,Málaga,Málaga,29004,36.727800,-4.412000,141
+192,Avenida de la Carihuela 67,4ºB,Torremolinos,Málaga,29624,36.620500,-4.503900,142
+193,Calle Marqués de Larios 156,2ºC,Fuengirola,Málaga,29644,36.547700,-4.621700,143
+194,Plaza de la Constitución 67,3ºD,Ronda,Málaga,29404,36.737300,-5.163000,144
+195,Calle Real 45,1ºA,Estepona,Málaga,29684,36.428400,-5.148100,145
+196,Paseo Marítimo 89,2ºB,Marbella,Málaga,29604,36.507400,-4.881600,146
+197,Calle Alameda Principal 45,3ºC,Benalmádena,Málaga,29635,36.593400,-4.560300,147
+198,Avenida de Velázquez 101,4ºD,Vélez-Málaga,Málaga,29704,36.768500,-4.104100,148
+199,Calle La Malagueta 34,1ºA,Nerja,Málaga,29784,36.742300,-3.882000,149
+200,Calle San Miguel 78,2ºB,Antequera,Málaga,29204,37.020000,-4.559400,150
+201,Calle Ancha 23,2ºA,Cádiz,Cádiz,11001,36.529300,-6.298200,151
+202,Avenida Andalucía 67,4ºB,San Fernando,Cádiz,11100,36.443800,-6.197500,152
+203,Calle Real 45,,Chiclana de la Frontera,Cádiz,11130,36.419000,-6.143500,153
+204,Plaza de la Catedral 8,,Jerez de la Frontera,Cádiz,11401,36.685200,-6.126400,154
+205,Calle Mayor 33,1ºC,El Puerto de Santa María,Cádiz,11500,36.596100,-6.237500,155
+206,Paseo de la Bahía 56,5ºD,Puerto Real,Cádiz,11510,36.529200,-6.190100,156
+207,Calle Columela 89,3ºA,Conil de la Frontera,Cádiz,11140,36.277500,-6.088600,157
+208,Avenida de la Constitución 17,,Sanlúcar de Barrameda,Cádiz,11540,36.778800,-6.360600,158
+209,Calle Real 42,8ºE,Rota,Cádiz,11530,36.627300,-6.358300,159
+210,Avenida de la Libertad 10,,Arcos de la Frontera,Cádiz,11630,36.747500,-5.800300,160
+211,Calle Ancha 123,3ºA,Cádiz,Cádiz,11002,36.528000,-6.297900,161
+212,Avenida Andalucía 45,2ºB,San Fernando,Cádiz,11101,36.444500,-6.197000,162
+213,Calle Real 67,1ºC,Chiclana de la Frontera,Cádiz,11131,36.419800,-6.143000,163
+214,Plaza de la Catedral 56,4ºD,Jerez de la Frontera,Cádiz,11402,36.685700,-6.126000,164
+215,Calle Mayor 78,3ºB,El Puerto de Santa María,Cádiz,11501,36.596900,-6.236900,165
+216,Paseo de la Bahía 101,2ºC,Puerto Real,Cádiz,11511,36.530100,-6.189600,166
+217,Calle Columela 34,1ºD,Conil de la Frontera,Cádiz,11141,36.277800,-6.088100,167
+218,Avenida de la Constitución 56,2ºA,Sanlúcar de Barrameda,Cádiz,11541,36.779300,-6.360100,168
+219,Calle Real 101,3ºC,Rota,Cádiz,11531,36.627900,-6.357800,169
+220,Avenida de la Libertad 22,1ºB,Arcos de la Frontera,Cádiz,11631,36.747900,-5.800000,170
+221,Calle Ancha 78,4ºD,Cádiz,Cádiz,11003,36.528600,-6.297500,171
+222,Avenida Andalucía 34,2ºA,San Fernando,Cádiz,11102,36.445200,-6.196500,172
+223,Calle Real 89,4ºD,Chiclana de la Frontera,Cádiz,11132,36.420500,-6.142500,173
+224,Plaza de la Catedral 34,1ºA,Jerez de la Frontera,Cádiz,11403,36.686200,-6.125600,174
+225,Calle Mayor 45,2ºB,El Puerto de Santa María,Cádiz,11502,36.597600,-6.236300,175
+226,Paseo de la Bahía 78,3ºC,Puerto Real,Cádiz,11512,36.530900,-6.189100,176
+227,Calle Columela 101,4ºD,Conil de la Frontera,Cádiz,11142,36.278200,-6.087600,177
+228,Avenida de la Constitución 45,3ºA,Sanlúcar de Barrameda,Cádiz,11542,36.779900,-6.359700,178
+229,Calle Real 34,2ºB,Rota,Cádiz,11532,36.628600,-6.357300,179
+230,Avenida de la Libertad 56,3ºC,Arcos de la Frontera,Cádiz,11632,36.748300,-5.799700,180
+231,Calle Ancha 45,3ºD,Cádiz,Cádiz,11004,36.529200,-6.297100,181
+232,Avenida Andalucía 78,4ºD,San Fernando,Cádiz,11103,36.445900,-6.196000,182
+233,Calle Real 56,2ºA,Chiclana de la Frontera,Cádiz,11133,36.421200,-6.142000,183
+234,Plaza de la Catedral 89,1ºC,Jerez de la Frontera,Cádiz,11404,36.686700,-6.125200,184
+235,Calle Mayor 101,2ºB,El Puerto de Santa María,Cádiz,11503,36.598300,-6.235700,185
+236,Paseo de la Bahía 45,3ºD,Puerto Real,Cádiz,11513,36.531700,-6.188600,186
+237,Calle Columela 67,4ºA,Conil de la Frontera,Cádiz,11143,36.278700,-6.087100,187
+238,Avenida de la Constitución 56,2ºD,Sanlúcar de Barrameda,Cádiz,11543,36.780400,-6.359400,188
+239,Calle Real 78,3ºB,Rota,Cádiz,11533,36.629300,-6.356900,189
+240,Avenida de la Libertad 101,4ºC,Arcos de la Frontera,Cádiz,11633,36.748800,-5.799400,190
+241,Calle Ancha 22,1ºA,Cádiz,Cádiz,11005,36.529800,-6.296600,191
+242,Avenida Andalucía 101,3ºB,San Fernando,Cádiz,11104,36.446600,-6.195500,192
+243,Calle Real 45,4ºC,Chiclana de la Frontera,Cádiz,11134,36.421900,-6.141500,193
+244,Plaza de la Catedral 67,2ºD,Jerez de la Frontera,Cádiz,11405,36.687200,-6.124800,194
+245,Calle Mayor 89,1ºA,El Puerto de Santa María,Cádiz,11504,36.599000,-6.235200,195
+246,Paseo de la Bahía 34,2ºB,Puerto Real,Cádiz,11514,36.532400,-6.188100,196
+247,Calle Columela 78,3ºC,Conil de la Frontera,Cádiz,11144,36.279300,-6.086600,197
+248,Avenida de la Constitución 34,1ºD,Sanlúcar de Barrameda,Cádiz,11544,36.780900,-6.359100,198
+249,Calle Real 156,2ºA,Rota,Cádiz,11534,36.630000,-6.356500,199
+250,Avenida de la Libertad 45,3ºB,Arcos de la Frontera,Cádiz,11634,36.749300,-5.799100,200
+251,Calle de la Feria 23,2ºA,Córdoba,Córdoba,14001,37.879900,-4.780600,201
+252,Avenida del Gran Capitán 67,4ºB,Lucena,Córdoba,14900,37.411200,-4.490500,202
+253,Calle Real 45,,Puente Genil,Córdoba,14500,37.391000,-4.772100,203
+254,Plaza de las Tendillas 8,,Córdoba,Córdoba,14002,37.888100,-4.772700,204
+255,Calle Mayor 33,1ºC,Baena,Córdoba,14850,37.616400,-4.327900,205
+256,Paseo de la Victoria 56,5ºD,Posadas,Córdoba,14730,37.760900,-5.080100,206
+257,Calle Claudio Marcelo 89,3ºA,Montilla,Córdoba,14550,37.580200,-4.641700,207
+258,Avenida de América 17,,Cabra,Córdoba,14940,37.471600,-4.442200,208
+259,Calle Mayor 42,8ºE,Priego de Córdoba,Córdoba,14800,37.438400,-4.200900,209
+260,Avenida de Andalucía 10,,Palma del Río,Córdoba,14700,37.696100,-5.272200,210
+261,Calle de la Feria 123,3ºA,Córdoba,Córdoba,14003,37.879200,-4.780100,211
+262,Avenida del Gran Capitán 45,2ºB,Lucena,Córdoba,14901,37.411900,-4.490000,212
+263,Calle Real 67,1ºC,Puente Genil,Córdoba,14501,37.391700,-4.771600,213
+264,Plaza de las Tendillas 56,4ºD,Córdoba,Córdoba,14004,37.888800,-4.772200,214
+265,Calle Mayor 78,3ºB,Baena,Córdoba,14851,37.617100,-4.327400,215
+266,Paseo de la Victoria 101,2ºC,Posadas,Córdoba,14731,37.761600,-5.079600,216
+267,Calle Claudio Marcelo 34,1ºD,Montilla,Córdoba,14551,37.580900,-4.641200,217
+268,Avenida de América 56,2ºA,Cabra,Córdoba,14941,37.472300,-4.441700,218
+269,Calle Mayor 101,3ºC,Priego de Córdoba,Córdoba,14801,37.438900,-4.200400,219
+270,Avenida de Andalucía 22,1ºB,Palma del Río,Córdoba,14701,37.696600,-5.271700,220
+271,Calle de la Feria 78,4ºD,Córdoba,Córdoba,14005,37.879900,-4.779500,221
+272,Avenida del Gran Capitán 34,2ºA,Lucena,Córdoba,14902,37.412600,-4.489500,222
+273,Calle Real 89,4ºD,Puente Genil,Córdoba,14502,37.392400,-4.771100,223
+274,Plaza de las Tendillas 34,1ºA,Córdoba,Córdoba,14006,37.889500,-4.771700,224
+275,Calle Mayor 45,2ºB,Baena,Córdoba,14852,37.617800,-4.327000,225
+276,Paseo de la Victoria 78,3ºC,Posadas,Córdoba,14732,37.762300,-5.079100,226
+277,Calle Claudio Marcelo 101,4ºD,Montilla,Córdoba,14552,37.581600,-4.640700,227
+278,Avenida de América 45,3ºA,Cabra,Córdoba,14942,37.472900,-4.441200,228
+279,Calle Mayor 34,2ºB,Priego de Córdoba,Córdoba,14802,37.439400,-4.199900,229
+280,Avenida de Andalucía 56,3ºC,Palma del Río,Córdoba,14702,37.697100,-5.271200,230
+281,Calle de la Feria 45,3ºD,Córdoba,Córdoba,14007,37.880600,-4.779000,231
+282,Avenida del Gran Capitán 78,4ºD,Lucena,Córdoba,14903,37.413300,-4.489000,232
+283,Calle Real 156,2ºA,Puente Genil,Córdoba,14503,37.393100,-4.770600,233
+284,Plaza de las Tendillas 45,3ºB,Córdoba,Córdoba,14008,37.890200,-4.771200,234
+285,Calle Mayor 67,4ºC,Baena,Córdoba,14853,37.618500,-4.326500,235
+286,Paseo de la Victoria 34,1ºD,Posadas,Córdoba,14733,37.762900,-5.078600,236
+287,Calle Claudio Marcelo 78,2ºA,Montilla,Córdoba,14553,37.582300,-4.640200,237
+288,Avenida de América 34,1ºC,Cabra,Córdoba,14943,37.473600,-4.440700,238
+289,Calle Mayor 101,2ºB,Priego de Córdoba,Córdoba,14803,37.440000,-4.199400,239
+290,Avenida de Andalucía 45,3ºC,Palma del Río,Córdoba,14703,37.697600,-5.270700,240
+291,Calle de la Feria 56,2ºD,Córdoba,Córdoba,14009,37.881300,-4.778500,241
+292,Avenida del Gran Capitán 101,3ºA,Lucena,Córdoba,14904,37.414000,-4.488500,242
+293,Calle Real 34,1ºB,Puente Genil,Córdoba,14504,37.393800,-4.770100,243
+294,Plaza de las Tendillas 78,2ºC,Córdoba,Córdoba,14009,37.890900,-4.770700,244
+295,Calle Mayor 89,3ºD,Baena,Córdoba,14854,37.619200,-4.326100,245
+296,Paseo de la Victoria 101,4ºA,Posadas,Córdoba,14734,37.763600,-5.078100,246
+297,Calle Claudio Marcelo 45,2ºB,Montilla,Córdoba,14554,37.582900,-4.639700,247
+298,Avenida de América 67,3ºC,Cabra,Córdoba,14944,37.474200,-4.440200,248
+299,Calle Mayor 22,1ºA,Priego de Córdoba,Córdoba,14804,37.440700,-4.198900,249
+300,Avenida de Andalucía 78,4ºD,Palma del Río,Córdoba,14704,37.698100,-5.270200,250
+301,Calle Sierpes 45,3ºD,Sevilla,Sevilla,41004,37.387600,-5.985200,251
+302,Avenida de la Constitución 78,2ºA,Utrera,Sevilla,41700,37.185300,-5.908100,252
+303,Calle Feria 23,1ºB,Écija,Sevilla,41400,37.540300,-5.676800,253
+304,Plaza Nueva 67,4ºC,Sevilla,Sevilla,41001,37.387700,-5.987300,254
+305,Calle San Jacinto 101,3ºA,Triana,Sevilla,41010,37.380600,-6.001200,255
+306,Paseo de Colón 34,2ºB,Dos Hermanas,Sevilla,41701,37.286500,-5.929100,256
+307,Calle Betis 78,3ºC,Sevilla,Sevilla,41011,37.387500,-6.001500,257
+308,Avenida de la Palmera 34,1ºD,Los Remedios,Sevilla,41013,37.365900,-5.983300,258
+309,Calle Tetuán 56,2ºA,Sevilla,Sevilla,41002,37.394400,-5.985600,259
+310,Avenida San Juan de la Cruz 101,3ºB,Alcalá de Guadaíra,Sevilla,41500,37.352500,-5.840400,260
+311,Calle Sierpes 78,4ºD,Sevilla,Sevilla,41005,37.386900,-5.986500,261
+312,Avenida de la Constitución 56,2ºB,Utrera,Sevilla,41702,37.186000,-5.909100,262
+313,Calle Feria 89,3ºC,Écija,Sevilla,41401,37.541000,-5.676300,263
+314,Plaza Nueva 34,1ºA,Sevilla,Sevilla,41003,37.387800,-5.988400,264
+315,Calle San Jacinto 45,2ºB,Triana,Sevilla,41012,37.380900,-6.002300,265
+316,Paseo de Colón 78,3ºC,Dos Hermanas,Sevilla,41702,37.287000,-5.930200,266
+317,Calle Betis 101,4ºD,Sevilla,Sevilla,41012,37.387600,-6.000500,267
+318,Avenida de la Palmera 45,1ºA,Los Remedios,Sevilla,41014,37.366200,-5.983800,268
+319,Calle Tetuán 67,2ºB,Sevilla,Sevilla,41004,37.394900,-5.986000,269
+320,Avenida San Juan de la Cruz 34,3ºC,Alcalá de Guadaíra,Sevilla,41501,37.352800,-5.839600,270
+321,Calle Sierpes 101,4ºD,Sevilla,Sevilla,41006,37.386400,-5.987700,271
+322,Avenida de la Constitución 78,2ºA,Utrera,Sevilla,41703,37.185700,-5.910100,272
+323,Calle Feria 45,1ºB,Écija,Sevilla,41402,37.541600,-5.675800,273
+324,Plaza Nueva 56,3ºC,Sevilla,Sevilla,41005,37.387900,-5.989500,274
+325,Calle San Jacinto 78,4ºD,Triana,Sevilla,41013,37.381200,-6.002900,275
+326,Paseo de Colón 101,2ºA,Dos Hermanas,Sevilla,41703,37.287600,-5.931300,276
+327,Calle Betis 34,1ºD,Sevilla,Sevilla,41013,37.388100,-6.000000,277
+328,Avenida de la Palmera 67,2ºB,Los Remedios,Sevilla,41015,37.366500,-5.984300,278
+329,Calle Tetuán 78,3ºC,Sevilla,Sevilla,41006,37.395400,-5.986500,279
+330,Avenida San Juan de la Cruz 45,4ºD,Alcalá de Guadaíra,Sevilla,41502,37.353100,-5.839200,280
+331,Calle Sierpes 67,1ºA,Sevilla,Sevilla,41007,37.386000,-5.988900,281
+332,Avenida de la Constitución 56,2ºB,Utrera,Sevilla,41704,37.186400,-5.911000,282
+333,Calle Feria 78,3ºC,Écija,Sevilla,41403,37.542100,-5.675300,283
+334,Plaza Nueva 34,1ºA,Sevilla,Sevilla,41008,37.388200,-5.990600,284
+335,Calle San Jacinto 45,2ºB,Triana,Sevilla,41014,37.381500,-6.003500,285
+336,Paseo de Colón 78,3ºC,Dos Hermanas,Sevilla,41704,37.288100,-5.932300,286
+337,Calle Betis 101,4ºD,Sevilla,Sevilla,41014,37.388400,-5.999400,287
+338,Avenida de la Palmera 45,1ºA,Los Remedios,Sevilla,41016,37.366900,-5.985000,288
+339,Calle Tetuán 67,2ºB,Sevilla,Sevilla,41008,37.395900,-5.985500,289
+340,Avenida San Juan de la Cruz 34,3ºC,Alcalá de Guadaíra,Sevilla,41503,37.353400,-5.838800,290
+341,Calle Sierpes 101,4ºD,Sevilla,Sevilla,41009,37.386600,-5.989800,291
+342,Avenida de la Constitución 78,2ºA,Utrera,Sevilla,41705,37.186900,-5.911900,292
+343,Calle Feria 45,1ºB,Écija,Sevilla,41404,37.542600,-5.674800,293
+344,Plaza Nueva 56,3ºC,Sevilla,Sevilla,41009,37.388500,-5.991800,294
+345,Calle San Jacinto 78,4ºD,Triana,Sevilla,41015,37.381800,-6.004000,295
+346,Paseo de Colón 101,2ºA,Dos Hermanas,Sevilla,41705,37.288600,-5.933300,296
+347,Calle Betis 34,1ºD,Sevilla,Sevilla,41015,37.388700,-5.998800,297
+348,Avenida de la Palmera 67,2ºB,Los Remedios,Sevilla,41017,37.367300,-5.985700,298
+349,Calle Tetuán 78,3ºC,Sevilla,Sevilla,41010,37.396400,-5.985000,299
+350,Avenida San Juan de la Cruz 45,4ºD,Alcalá de Guadaíra,Sevilla,41504,37.353700,-5.838400,300
+351,Calle Sierpes 156,2ºA,Sevilla,Sevilla,41010,37.384100,-5.985500,301
+352,Avenida de la Constitución 267,3ºC,Utrera,Sevilla,41706,37.191200,-5.914400,302
+353,Calle Feria 89,4ºD,Écija,Sevilla,41405,37.543100,-5.674300,303
+354,Plaza Nueva 45,2ºB,Sevilla,Sevilla,41011,37.388900,-5.993300,304
+355,Calle San Jacinto 67,3ºC,Triana,Sevilla,41016,37.382200,-6.004600,305
+356,Paseo de Colón 22,1ºD,Dos Hermanas,Sevilla,41706,37.289100,-5.934300,306
+357,Calle Betis 101,2ºA,Sevilla,Sevilla,41017,37.388300,-5.998100,307
+358,Avenida de la Palmera 34,3ºB,Los Remedios,Sevilla,41018,37.367700,-5.986500,308
+359,Calle Tetuán 56,4ºC,Sevilla,Sevilla,41012,37.396900,-5.985300,309
+360,Avenida San Juan de la Cruz 123,2ºD,Alcalá de Guadaíra,Sevilla,41505,37.354000,-5.838000,310
+361,Calle Sierpes 78,3ºA,Sevilla,Sevilla,41012,37.386200,-5.988100,311
+362,Avenida de la Constitución 45,1ºB,Utrera,Sevilla,41707,37.191700,-5.915400,312
+363,Calle Feria 22,2ºC,Écija,Sevilla,41406,37.543600,-5.673800,313
+364,Plaza Nueva 101,3ºD,Sevilla,Sevilla,41013,37.389400,-5.994200,314
+365,Calle San Jacinto 34,1ºA,Triana,Sevilla,41017,37.382500,-6.005300,315
+366,Paseo de Colón 67,2ºB,Dos Hermanas,Sevilla,41707,37.289700,-5.935300,316
+367,Calle Betis 78,3ºC,Sevilla,Sevilla,41018,37.388600,-5.997200,317
+368,Avenida de la Palmera 56,4ºD,Los Remedios,Sevilla,41019,37.368100,-5.987300,318
+369,Calle Tetuán 101,2ºA,Sevilla,Sevilla,41013,37.397400,-5.986100,319
+370,Avenida San Juan de la Cruz 34,3ºB,Alcalá de Guadaíra,Sevilla,41506,37.354300,-5.837500,320
+371,Calle Sierpes 67,1ºC,Sevilla,Sevilla,41014,37.386900,-5.989000,321
+372,Avenida de la Constitución 56,2ºD,Utrera,Sevilla,41708,37.192200,-5.916400,322
+373,Calle Feria 78,3ºA,Écija,Sevilla,41407,37.544100,-5.673300,323
+374,Plaza Nueva 34,1ºB,Sevilla,Sevilla,41014,37.389900,-5.995300,324
+375,Calle San Jacinto 45,2ºC,Triana,Sevilla,41018,37.382900,-6.005900,325
+376,Paseo de Colón 78,3ºD,Dos Hermanas,Sevilla,41708,37.290200,-5.936300,326
+377,Calle Betis 101,4ºA,Sevilla,Sevilla,41019,37.388900,-5.996300,327
+378,Avenida de la Palmera 45,1ºB,Los Remedios,Sevilla,41020,37.368600,-5.988000,328
+379,Calle Tetuán 67,2ºC,Sevilla,Sevilla,41015,37.397900,-5.987100,329
+380,Avenida San Juan de la Cruz 34,3ºD,Alcalá de Guadaíra,Sevilla,41507,37.354600,-5.837000,330
+381,Calle Sierpes 101,4ºA,Sevilla,Sevilla,41016,37.386700,-5.990100,331
+382,Avenida de la Constitución 78,2ºB,Utrera,Sevilla,41709,37.192700,-5.917400,332
+383,Calle Feria 45,1ºC,Écija,Sevilla,41408,37.544600,-5.672800,333
+384,Plaza Nueva 56,3ºD,Sevilla,Sevilla,41015,37.390400,-5.996800,334
+385,Calle San Jacinto 78,4ºA,Triana,Sevilla,41019,37.383300,-6.006500,335
+386,Paseo de Colón 101,2ºB,Dos Hermanas,Sevilla,41709,37.290800,-5.937400,336
+387,Calle Betis 34,1ºC,Sevilla,Sevilla,41020,37.389200,-5.995500,337
+388,Avenida de la Palmera 67,2ºD,Los Remedios,Sevilla,41021,37.369000,-5.988700,338
+389,Calle Tetuán 78,3ºD,Sevilla,Sevilla,41016,37.398400,-5.988000,339
+390,Avenida San Juan de la Cruz 45,4ºA,Alcalá de Guadaíra,Sevilla,41508,37.355000,-5.836500,340
+391,Calle Maestra 78,3ºB,Jaén,Jaén,23001,37.772300,-3.790100,341
+392,Avenida de Andalucía 45,2ºC,Linares,Jaén,23700,38.095100,-3.632900,342
+393,Calle Virgen de la Capilla 22,1ºD,Úbeda,Jaén,23400,38.010200,-3.370100,343
+394,Plaza de la Constitución 101,4ºA,Andújar,Jaén,23740,38.038800,-4.048200,344
+395,Calle Compañía 34,3ºB,Jaén,Jaén,23002,37.769600,-3.791200,345
+396,Paseo de la Estación 67,2ºC,Martos,Jaén,23600,37.719800,-3.985500,346
+397,Calle San Ildefonso 78,3ºD,Baeza,Jaén,23440,37.995400,-3.470200,347
+398,Avenida de Madrid 45,4ºA,Jaén,Jaén,23003,37.774200,-3.791900,348
+399,Calle Juego de Pelota 22,1ºB,Alcalá la Real,Jaén,23680,37.464600,-3.924400,349
+400,Plaza de Santa María 101,2ºC,Jaén,Jaén,23004,37.769200,-3.791500,350
+401,Calle Maestra 45,3ºD,Jaén,Jaén,23005,37.772700,-3.790800,351
+402,Avenida de Andalucía 67,2ºA,Linares,Jaén,23701,38.096000,-3.631800,352
+403,Calle Virgen de la Capilla 56,3ºB,Úbeda,Jaén,23401,38.010600,-3.369600,353
+404,Plaza de la Constitución 34,1ºC,Andújar,Jaén,23741,38.039400,-4.048700,354
+405,Calle Compañía 101,2ºD,Jaén,Jaén,23006,37.770100,-3.791000,355
+406,Paseo de la Estación 45,4ºA,Martos,Jaén,23601,37.720200,-3.985900,356
+407,Calle San Ildefonso 22,1ºB,Baeza,Jaén,23441,37.995800,-3.470700,357
+408,Avenida de Madrid 78,3ºC,Jaén,Jaén,23007,37.774600,-3.792400,358
+409,Calle Juego de Pelota 67,2ºA,Alcalá la Real,Jaén,23681,37.465000,-3.924900,359
+410,Plaza de Santa María 45,3ºB,Jaén,Jaén,23008,37.769700,-3.791400,360
+411,Calle Maestra 78,4ºA,Jaén,Jaén,23009,37.773200,-3.791700,361
+412,Avenida de Andalucía 45,1ºC,Linares,Jaén,23702,38.096400,-3.631100,362
+413,Calle Virgen de la Capilla 101,2ºD,Úbeda,Jaén,23402,38.011000,-3.369100,363
+414,Plaza de la Constitución 67,3ºA,Andújar,Jaén,23742,38.039900,-4.049200,364
+415,Calle Compañía 34,4ºB,Jaén,Jaén,23010,37.770600,-3.791800,365
+416,Paseo de la Estación 56,2ºC,Martos,Jaén,23602,37.720800,-3.986400,366
+417,Calle San Ildefonso 78,3ºD,Baeza,Jaén,23442,37.996200,-3.471200,367
+418,Avenida de Madrid 22,1ºB,Jaén,Jaén,23011,37.775000,-3.792900,368
+419,Calle Juego de Pelota 45,2ºA,Alcalá la Real,Jaén,23682,37.465400,-3.925400,369
+420,Plaza de Santa María 101,3ºB,Jaén,Jaén,23012,37.770200,-3.791300,370
+421,Calle Maestra 45,4ºC,Jaén,Jaén,23013,37.773700,-3.791400,371
+422,Avenida de Andalucía 67,1ºD,Linares,Jaén,23703,38.096900,-3.630300,372
+423,Calle Virgen de la Capilla 56,2ºA,Úbeda,Jaén,23403,38.011400,-3.368600,373
+424,Plaza de la Constitución 34,3ºB,Andújar,Jaén,23743,38.040400,-4.049700,374
+425,Calle Compañía 101,4ºC,Jaén,Jaén,23014,37.771100,-3.791700,375
+426,Paseo de la Estación 45,2ºD,Martos,Jaén,23603,37.721300,-3.987000,376
+427,Calle San Ildefonso 22,1ºC,Baeza,Jaén,23443,37.996700,-3.471700,377
+428,Avenida de Madrid 78,3ºA,Jaén,Jaén,23015,37.775400,-3.793400,378
+429,Calle Juego de Pelota 67,2ºB,Alcalá la Real,Jaén,23683,37.465800,-3.925900,379
+430,Plaza de Santa María 45,3ºC,Jaén,Jaén,23016,37.770700,-3.791900,380
+431,Calle Maestra 78,4ºD,Jaén,Jaén,23017,37.774100,-3.791900,381
+432,Avenida de Andalucía 45,1ºA,Linares,Jaén,23704,38.097300,-3.629500,382
+433,Calle Virgen de la Capilla 101,2ºB,Úbeda,Jaén,23404,38.011900,-3.368000,383
+434,Plaza de la Constitución 67,3ºC,Andújar,Jaén,23744,38.040900,-4.050200,384
+435,Calle Compañía 34,4ºD,Jaén,Jaén,23018,37.771600,-3.792000,385
+436,Paseo de la Estación 56,2ºA,Martos,Jaén,23604,37.721900,-3.987500,386
+437,Calle San Ildefonso 78,3ºB,Baeza,Jaén,23444,37.997100,-3.472200,387
+438,Avenida de Madrid 22,1ºC,Jaén,Jaén,23019,37.775800,-3.793900,388
+439,Calle Juego de Pelota 45,2ºD,Alcalá la Real,Jaén,23684,37.466200,-3.926400,389
+440,Plaza de Santa María 101,3ºA,Jaén,Jaén,23020,37.771100,-3.792400,390

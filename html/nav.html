@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        @font-face {
+            font-family: 'Knockout';
+            src: url('./Knockout.otf') format('truetype');
+        }
+        body {
+            background-color: #000;
+        }
+        h2 {
+            font-family: 'Knockout' !important;
+            color: #fff !important;
+        }
+        .nav_goiko {
+            display:flex;
+            justify-content: space-between;
+        }
+        .nav_goiko a {
+            min-width: 150px;
+            font-family: 'Knockout' !important;
+            border: 2px #fff solid;
+            border-radius: 32px;
+            color: #fff !important;
+            cursor: pointer;
+            font-weight: 400;
+            font-size: 1rem;
+            padding: 0.75rem 1rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            text-align: center;
+        }
+        .nav_goiko a:hover {
+            background-color: #fff !important;
+            color: #000 !important;
+        }
+        .nav_goiko .active {
+            border: 2px #ee2737 solid;
+            background-color: #ee2737 !important;
+        }
+        .nav_goiko .active:hover {
+            border: 2px #fcb900 solid;
+            background-color: #fcb900 !important;
+            color: #000 !important;
+        }
+    </style>
+</head>
+<body>
+    <h2>GOIKO GRILL GROUP SL</h2>
+    <div class="nav_goiko">
+        <a class="active" href="#">PEDIDOS</a>
+        <a href="#">PRODUCTOS</a>
+        <a href="#">Locales</a>
+    </div>
+</body>
+</html>
+

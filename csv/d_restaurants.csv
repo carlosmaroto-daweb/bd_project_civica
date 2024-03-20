@@ -1,0 +1,11 @@
+restaurants_id,province,address,postcode,latitude,longitude,phone
+1,Almería,Calle Rambla Obispo Orberá 11,04001,36.841200,-2.462600,950956120
+2,Cádiz,Calle Bodegas 11,11402,36.682300,-6.134650,856550189
+3,Cádiz,Calle Cabotaje 10,11379,36.189900,-5.431600,856550174
+4,Cádiz,Calle San Miguel 1,11001,36.532900,-6.297100,856559970
+5,Córdoba,Avenida del Gran Capitán 26,14001,37.888500,-4.782200,857759962
+6,Granada,Plaza de la Trinidad 4,18002,37.176400,-3.602200,858281136
+7,Jaén,Calle Virgen de la Capilla 7,23001,37.768500,-3.787200,953825318
+8,Málaga,Calle Alfonso Ponce de León 3,29004,36.657000,-4.478800,951829942
+9,Málaga,Avenida Ricardo Soriano 15,29601,36.510100,-4.888600,951829935
+10,Málaga,Calle Armengual de la Mota 12,29007,36.718700,-4.428700,951829883
