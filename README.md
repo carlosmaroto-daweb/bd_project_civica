@@ -8,7 +8,7 @@ Debido a la naturaleza del contenido, el acceso al dashboard se realiza a travé
 
 ## Base de Datos
 
-[Diagrama Base de Datos](https://raw.githubusercontent.com/carlosmaroto-daweb/dashboard_goiko/main/DB.png)
+<img src="DB.png" alt="Diagrama Base de Datos" />
 
 ### Tecnologías Utilizadas
 
