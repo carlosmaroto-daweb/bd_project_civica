@@ -14,6 +14,7 @@ Debido a la naturaleza del contenido, el acceso al dashboard se realiza a travé
 
 - SQL
 - SQL Server Management Studio
+- Modelado Base de Datos
 - MicroStrategy Developer
 - MicroStrategy Workstation
 
