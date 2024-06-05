@@ -6,6 +6,10 @@
 
 Debido a la naturaleza del contenido, el acceso al dashboard se realiza a través de un entorno MicroStrategy.
 
+## Base de Datos
+
+[Diagrama Base de Datos](DB.png)
+
 ### Tecnologías Utilizadas
 
 - SQL
@@ -28,6 +32,7 @@ Este repositorio contiene la información utilizada como proyecto final en el cu
 
 ### Estructura de Archivos
 
+- **DB.png**: Diagrama Entidad-Relación de la base de datos.
 - **GOIKO.pdf**: Presentación de la exposición.
 - **GOIKO.mstr**: Archivo MicroStrategy que contiene el dashboard y sus configuraciones.
 - **bd/**: Carpeta que contiene todos los archivos de la base de datos y sus imágenes.
